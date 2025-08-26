@@ -1,23 +1,22 @@
-# Java Fundamentals 🚀
+# Java Fundamentals
 
 Welcome to **Java Fundamentals**, a learning journey where we break down the core concepts of Java step by step.  
 This repository complements my blog series on [Java Fundamentals](https://hassan-codes.blogspot.com/), where each concept is explained with simple examples, analogies, and beginner-friendly notes.
 
 ---
 
-## 📚 What’s Inside
+## What’s Inside
 This repo is organized into **levels (folders)**, each covering a set of concepts:
 - `Basics/` → The foundation of Java: introduction, first program, variables, operators, input & output.  
   Each folder contains:
-  - **README.md** → Links to blog posts for that level.  
+  - **README.md** → Links to blog posts for that level and details about excercise + project question.
   - **Exercise Code** → A Java file combining all studied concepts into practice.  
-  - **Project.md** → A small challenge/project to test your understanding.  
 
 More levels will be added as the blog series grows (Control Flow, Loops, Arrays, OOP, etc.).
 
 ---
 
-## 📝 Blog Series (Basics)
+## Blog Series (Basics)
 Here are the first 6 posts of the series:
 
 1. [Introduction to Java](https://hassan-codes.blogspot.com/2025/08/01-java-fundamentals-introduction-to.html)  
@@ -29,7 +28,7 @@ Here are the first 6 posts of the series:
 
 ---
 
-## 🎯 How to Use
+## How to Use
 1. Read the blog posts in order.  
 2. Open the **exercise code** from the corresponding folder and try to:  
    - Break down the code  
@@ -39,7 +38,7 @@ Here are the first 6 posts of the series:
 
 ---
 
-## 📌 Goal
+## Goal
 This repo + blog combo is meant to give beginners a **clear, practical, and fun introduction to Java**.  
 By the end, you’ll not only know the syntax but also **build small projects** along the way.
 
