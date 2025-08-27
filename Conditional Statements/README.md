@@ -51,13 +51,13 @@ java SwitchExercise
    * Grouped cases
 3. For **each line** of the program, write a short note (1–2 words) identifying the exact concept used. Example:
    `if (marks >= 50)` → *if, relational operator (>=), condition*
-4. **Answer these reflection questions** in a short text file (`ANSWERS.md`):
+4. **Answer these reflection questions**:
 
    * When should you prefer `if-else` instead of `switch`?
    * What happens if you remove `break` from a switch case?
    * Can you write a range-based condition (like 1–10) using switch? Why / why not?
    * Which datatypes are allowed in switch cases?
-5. **Modify the exercises** (create new files `IfElse_YOURNAME.java`, `Switch_YOURNAME.java`):
+5. **Modify the exercises**:
 
    * Add at least one extra condition or case.
    * Use both `if-else` and `switch` to solve the same small problem, then compare which looks cleaner.
